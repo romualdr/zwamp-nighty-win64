@@ -17,11 +17,11 @@ Zwamp release used: zwamp-x64-2.2.1-full.zip
 * Mongo updated to 3.0.0 (Windows 64-bit 2008 R2+)
 * Activated mysql.so on PHP.ini
 
-# Use it !
+## Use it !
 
 // Todo
 
-# Contributions
+## Contributions
 
 This repository is much like a diff with the zwamp released used.
 Please use .md files for signaling a .exe inclusion with download link.
@@ -33,13 +33,13 @@ If you're a master in PHP evnvironnement and stuff (which i'm not), please updat
 
 DO **NOT** create a pull request including unstable / dev / RC / staging / *whatever_not_stable*.
 
-# Changelog
+## Changelog
 
-## 16/03/2015
+### 16/03/2015
 
 * Initial release
 
-# Original README
+## Original README
 
 ```
 The Z-WAMP Server Pack is a lightweight zero-install Web server package that
