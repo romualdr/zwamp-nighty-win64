@@ -4,6 +4,8 @@
 
 Z-WAMP is a lightweight zero-install Web server package that runs on Windows.
 
+![screenshot](http://zwamp.sourceforge.net/screenshot.png "Screenshot")
+
 **I'm not the creator of zwamp**
 
 Please visit the [zwamp official homepage](http://zwamp.sourceforge.net/) for more info.
