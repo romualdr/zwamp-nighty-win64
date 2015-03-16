@@ -1,25 +1,44 @@
-**I'm not the creator of zwamp**
-
-Please visit the [zwamp official homepage](http://zwamp.sourceforge.net/).
-If you like zwamp and wanna support, please use [this page](http://sourceforge.net/p/zwamp/donate/?source=navbar).
-
 # zwamp-nighty-win64
 
-Updated build of zwamp with latests stable tools.
-No other tool / program should be added.
+## What is zwamp
+
+Z-WAMP is a lightweight zero-install Web server package that runs on Windows.
+
+**I'm not the creator of zwamp**
+
+Please visit the [zwamp official homepage](http://zwamp.sourceforge.net/) for more info.
+If you like zwamp and wanna support, please use [this page](http://sourceforge.net/p/zwamp/donate/?source=navbar).
+
+## What is this ?
+
+It's an updated version of zwamp with latests stables availables.
+I needed Mongo 3.0.0 but zwamp wasn't updated. That's why i created this.
 
 Zwamp release used: zwamp-x64-2.2.1-full.zip
 
-## Updated
+## What's inside ?
 
-* Added folder "tools"
-* Included mongo client 3.0.0
-* Mongo updated to 3.0.0 (Windows 64-bit 2008 R2+)
-* Activated mysql.so on PHP.ini
+* MongoDB 3.0.0 (PHP 1.3.4 driver)(Mongo 3.0.0 client)
+
+_Untouched_
+
+* Apache 2.4.3
+* MySQL 5.6.10
+* PHP 5.4.12
+* MiniPerl 5.14.2
+* APC 3.1.13
+* XCache 3.0.0
+* XDebug 2.2.1
+* Adminer 3.5.1
+* PHP MongoDB Admin
+
 
 ## Use it !
 
-// Todo
+* Download the [latest release.zip](https://github.com/romualdr/zwamp-nighty-win64/releases/latest)
+* Unzip
+* Execute ```zwamp.exe```
+* Profit !
 
 ## Contributions
 
@@ -35,9 +54,12 @@ DO **NOT** create a pull request including unstable / dev / RC / staging / *what
 
 ## Changelog
 
-### 16/03/2015
+### [0.0.1](https://github.com/romualdr/zwamp-nighty-win64/releases/tag/0.0.1)
 
-* Initial release
+* Added folder "tools"
+* Included mongo client 3.0.0
+* Mongo updated to 3.0.0 (Windows 64-bit 2008 R2+)
+* Activated mysql.so on PHP.ini
 
 ## Original README
 
