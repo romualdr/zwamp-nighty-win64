@@ -87,6 +87,6 @@ up-to-date.
 
 ### Why 'nighty' ?
 
-It's kind of a "nightly" build of zwamp, however i didn't wanted to use the wrong "nightly" in a wrong way.
+It's kind of a "nightly" build of zwamp, however i didn't wanted to use the word "nightly" in a wrong way.
 
-*It was actually a typo ... but in the end, everything's fine ! pff.*
+*It was actually a typo ... but in the end, everything's fine ! mrpfh.*
