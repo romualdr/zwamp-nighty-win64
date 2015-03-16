@@ -8,12 +8,14 @@ Z-WAMP is a lightweight zero-install Web server package that runs on Windows.
 
 **I'm not the creator of zwamp**
 
-Please visit the [zwamp official homepage](http://zwamp.sourceforge.net/) for more info.
+Please visit the [zwamp official homepage](http://zwamp.sourceforge.net/) for more info. 
+
 If you like zwamp and wanna support, please use [this page](http://sourceforge.net/p/zwamp/donate/?source=navbar).
 
 ## What is this ?
 
 It's an updated version of zwamp with latests stables availables.
+
 I needed Mongo 3.0.0 but zwamp wasn't updated. That's why i created this.
 
 Zwamp release used: zwamp-x64-2.2.1-full.zip
@@ -80,6 +82,8 @@ making a donation to the project. Aside from motivating the people who make
 this package available to the world, it also helps keep the project alive and
 up-to-date.
 ```
+
+***
 
 ### Why 'nighty' ?
 
