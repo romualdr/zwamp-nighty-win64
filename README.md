@@ -16,13 +16,17 @@ Zwamp release used: zwamp-x64-2.2.1-full.zip
 * Included mongo client 3.0.0
 * Mongo updated to 3.0.0 (Windows 64-bit 2008 R2+)
 * Activated mysql.so on PHP.ini
-* Delete default database 'test' on Mongo
 
 # Use it !
 
 // Todo
 
 # Contributions
+
+This repository is much like a diff with the zwamp released used.
+Please use .md files for signaling a .exe inclusion with download link.
+
+An automatic builder, who download zwamp version and put everything into place will be available soon.
 
 Contributions are **VERY** welcome to keep the technologies updated.
 If you're a master in PHP evnvironnement and stuff (which i'm not), please update this repository.
