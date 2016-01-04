@@ -1,1 +1,1 @@
-(mongod.exe)[http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-v3.0-latest.zip?_ga=1.198733359.1601203223.1426460776] > mongod.exe
+(mongod.exe)[http://downloads.mongodb.org/win32/mongodb-win32-x86_64-2008plus-ssl-v3.2-latest.zip] > mongod.exe
