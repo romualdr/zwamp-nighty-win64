@@ -1,3 +1,5 @@
+## **Deprecated: Go to https://github.com/romualdr/xwamp [[0.1.0](https://github.com/romualdr/xwamp/releases)] for the latest / update version of the tool**
+
 # zwamp-nighty-win64
 
 ## What is zwamp
